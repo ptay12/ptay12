@@ -1,5 +1,5 @@
 ### Hi there 👋 , my name is Hồ Phương Tây.
- I’m studying Computer Science at the University of Technology, HCMC Vietnam National University.
+ I’m studying Computer Science at the University of Information Technology, HCMC Vietnam National University.
 
 <!--
 **ptay12/ptay12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
